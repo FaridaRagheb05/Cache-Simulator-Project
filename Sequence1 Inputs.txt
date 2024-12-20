@@ -1,0 +1,22 @@
+values entered in order: 
+32
+100
+2
+
+16384
+64
+5
+65536
+64
+7
+
+32768
+64
+6
+131072
+64
+8
+
+C:/Users/Haya/Desktop/Cache-Simulator/instructions.txt 
+
+C:/Users/Haya/Desktop/Cache-Simulator/test_data.txt 
